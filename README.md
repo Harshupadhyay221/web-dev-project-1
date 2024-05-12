@@ -1,6 +1,6 @@
 # Basic Landing Page
 
-This repository contains a basic landing page created using HTML and CSS.
+This repository contains a basic landing page created  and CSS.
 
 ## Table of Contents
 - [Introduction](#introduction)
