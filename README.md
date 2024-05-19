@@ -1,6 +1,6 @@
 # Basic Landing Page
 
-This repository .
+This repository contains a basic landing
 
 ## Table of Contents
 - [Introduction](#introduction)
